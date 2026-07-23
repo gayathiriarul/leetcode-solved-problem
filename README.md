@@ -24,3 +24,4 @@ The goal of this repository is to improve problem-solving skills, strengthen pro
 ## Note
 
 This repository will be updated regularly with new LeetCode solutions as part of continuous learning and practice.
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/_Gayathiri_?theme=light&font=Text%20Me%20One)
