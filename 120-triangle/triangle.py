@@ -1,5 +1,6 @@
 class Solution:
     def minimumTotal(self, triangle: list[list[int]]) -> int:
+        
 
 
         dp = triangle[-1][:]
@@ -10,4 +11,5 @@ class Solution:
 
         return dp[0]
 
+        
         
